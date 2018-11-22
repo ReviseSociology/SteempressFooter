@@ -1,6 +1,7 @@
 # SteempressFooter
 A footer for WordPress posts cross posted to steem, to try and explain what steem is and encourage onboarding 
 You can probably just cut and paste the 'code' below rather than bothering to download the zip file with the Word Doc and the pictures in:
+
 <img class=" size-full wp-image-22297 alignright" src="https://revisesociology.com/wp-content/uploads/2018/11/Steemit-pictures.jpg" alt="Steemit pictures" width="269" height="275" /></a>This post is also being published to the <a href="https://steem.com/" target="_blank" rel="noopener">steem network</a>, which pays you in cryptocurrency (steem) for blogging, vlogging, commenting on and even just upvoting other people's content.
 
 If you are a blogger, vlogger, entrepeneur or developer, or even if you just like good content, you should get on steem: it's social media 4.0!
